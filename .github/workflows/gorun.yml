@@ -9,6 +9,6 @@ on:
 jobs:
 
   build:
-    runs-on: ubuntu-largest
+    runs-on: ubuntu-latest
     - name: Test
       run: go run gocrazy.go
