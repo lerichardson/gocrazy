@@ -1,3 +1,4 @@
+[![Go Report Card](https://goreportcard.com/badge/lerichardson/gocrazy)](https://goreportcard.com/report/github.com/lerichardson/gocrazy)
 # gocrazy
 when it's 2 am this is what your brain be like
 # Installing
